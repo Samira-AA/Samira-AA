@@ -34,7 +34,7 @@
 
 <br>
 
-### 📊 Some non-referencial stats
+### 📊 Some stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Samira-AA&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Samira-AA&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
