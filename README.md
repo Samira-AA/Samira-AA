@@ -21,7 +21,7 @@
 - 🌍 Based in Lima, dreaming big
 - 🌱 Currently rebuilding my JavaScript foundation
 - 📚  Now reading: _Eloquent JavaScript_ and _Flowers for Algernon_
-- 🇻🇪 Chama developer 
+- 🏎️ F1 fan — racing mindset
 
 <br>
 
